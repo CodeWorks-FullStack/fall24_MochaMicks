@@ -1,0 +1,10 @@
+body {
+  color: brown;
+}
+
+
+.card-img {
+  height: 15em;
+  object-fit: cover;
+  object-position: center;
+}
